@@ -22,3 +22,4 @@ print("Welcome to our app to generate your band name\n Please, Answer the below 
 city =input("What is your city name. Where you spend your childhood ? Answer :")
 pet = input("What is your first pet neme. who's you loved most ? Answer : ")
 print(city+" "+  pet)
+

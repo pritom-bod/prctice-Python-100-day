@@ -1,4 +1,3 @@
-
 #if else (ride validation check program
 height = float(input("Enter your height in cm : "))
 bill = 0
@@ -61,13 +60,3 @@ else:
     print(f"Your height is {height}\n"
           "For ride Minimum height is 120\n"
           "Sorry...Your are not ready for ride")
-
-
-
-## even and odd number check program
-##Even odd check
-number = int(input("Enter your number : "))
-if number % 2 == 0:
-    print(f'Your entered number {number} is a Even number')
-else:
-    print(f'Your entered number {number} is a Odd number')
